@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>riot-web</id>
+    <version>1.0.1</version>
+    <title>Riot</title>
+    <authors>The Riot.im team</authors>
+    <owners>dimqua</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/vector-im/riot-web/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://riot.im/</projectUrl>
+    <iconUrl>https://github.com/Starz0r/riot-web-choco/raw/8ce0cf4f4d6308955d32df4d10416ca2278be49b/riot-web.png</iconUrl>
+    <description>Riot (formerly known as Vector) is a Matrix web client built using the [Matrix React SDK](https://github.com/matrix-org/matrix-react-sdk).
+
+##Features
+
+* Group chat
+* VoIP and video calling
+* File transfer
+* Bridge networks
+* Integrations
+* End-to-end crypto</description>
+    <summary>A glossy Matrix collaboration client.</summary>
+    <releaseNotes>https://github.com/vector-im/riot-web/releases</releaseNotes>
+    <tags>foss cross-platform admin riot im matrix client web riot-web riot.im react</tags>
+  </metadata>
+</package>
