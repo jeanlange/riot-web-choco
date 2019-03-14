@@ -2,14 +2,15 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>riot-web</id>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <title>Riot</title>
-    <authors>The Riot.im team</authors>
+    <authors>New Vector</authors>
     <owners>dimqua</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <licenseUrl>https://github.com/vector-im/riot-web/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://riot.im/</projectUrl>
-    <iconUrl>https://github.com/Starz0r/riot-web-choco/raw/8ce0cf4f4d6308955d32df4d10416ca2278be49b/riot-web.png</iconUrl>
+	<packageSourceUrl>https://github.com/Starz0r/riot-web-choco</packageSourceUrl>
+    <iconUrl>https://cdn.staticaly.com/gh/Starz0r/riot-web-choco/68cc147ee4b82416c9232d4e6b9ea41e719d0cd2/riot-web.svg</iconUrl>
     <description>Riot (formerly known as Vector) is a Matrix web client built using the [Matrix React SDK](https://github.com/matrix-org/matrix-react-sdk).
 
 ##Features
